@@ -1,0 +1,8 @@
+tri
+spectrum.xerox.com
+192.70.225.78
+/pub/map/dem
+tri
+spectrum.xerox.com
+192.70.225.78
+/pub/map/dem

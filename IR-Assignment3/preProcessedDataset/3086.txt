@@ -1,0 +1,9 @@
+precompil
+version
+hp2xx
+prefer
+precompil
+version
+hp2xx
+prefer
+386/486

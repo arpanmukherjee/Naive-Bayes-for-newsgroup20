@@ -1,0 +1,15 @@
+look
+softwar
+read
+plot
+pcx
+format
+look
+softwar
+read
+plot
+pcx
+format
+convert
+x
+coordin
